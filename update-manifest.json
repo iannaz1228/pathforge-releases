@@ -1,16 +1,14 @@
 {
-  "version": "1.0.1",
+  "version": "1.1.0",
   "releaseNotes": [
-    "Fixed: UI Scale no longer locks the game at 75% or 125%",
-    "Fixed: switching a character skin while a themed set is worn",
-    "Fixed: emotes now work in LAN matches, not just online queue matches",
-    "Fixed: a new account no longer silently starts with the Astro board and barricade",
-    "Account menu moved to the right of the Home top bar and no longer overflows",
-    "Reduced barrier thickness and move-guide arrow size on the board",
-    "Loading screen tip text is now readable over any background",
-    "Featured Skin card on Home now aligns with the other cards",
-    "Emote picker tiles are larger and unboxed",
-    "New: in-app update checking is now live"
+    "New: Contact Support is live in Settings — report a bug or send a suggestion right from the app",
+    "New: Shop's Avatar Border category — eight themed sets are now for sale for Forge Coins",
+    "Fixed: notification bell no longer shows a permanent false unread dot",
+    "Settings and Friends buttons/tabs now use the game's illustrated button frames",
+    "Fixed: barricade size reverted to its original, smaller dimensions",
+    "Fixed: Play Hub's mode cards are now vertically centered",
+    "Fixed: move-guide arrows are more compact and no longer blur together",
+    "Sidebar Exit button and the account menu better match the rest of the app"
   ],
   "downloadUrl": "https://github.com/iannaz1228/pathforge-releases/releases/latest"
 }
