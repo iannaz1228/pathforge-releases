@@ -1,12 +1,16 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "releaseNotes": [
-    "Play Hub, pause menu and Move/Place Barrier/Rotate dock redesign",
-    "Fullscreen and UI Scale display settings, with your own music support",
-    "Fixed: UI Scale locking up after picking 75% (and 125%)",
+    "Fixed: UI Scale no longer locks the game at 75% or 125%",
     "Fixed: switching a character skin while a themed set is worn",
     "Fixed: emotes now work in LAN matches, not just online queue matches",
-    "Fixed: a new account no longer silently starts with the Astro board and barricade"
+    "Fixed: a new account no longer silently starts with the Astro board and barricade",
+    "Account menu moved to the right of the Home top bar and no longer overflows",
+    "Reduced barrier thickness and move-guide arrow size on the board",
+    "Loading screen tip text is now readable over any background",
+    "Featured Skin card on Home now aligns with the other cards",
+    "Emote picker tiles are larger and unboxed",
+    "New: in-app update checking is now live"
   ],
   "downloadUrl": "https://github.com/iannaz1228/pathforge-releases/releases/latest"
 }
