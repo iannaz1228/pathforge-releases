@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "releaseNotes": [
+    "Play Hub, pause menu and Move/Place Barrier/Rotate dock redesign",
+    "Fullscreen and UI Scale display settings, with your own music support",
+    "Fixed: UI Scale locking up after picking 75% (and 125%)",
+    "Fixed: switching a character skin while a themed set is worn",
+    "Fixed: emotes now work in LAN matches, not just online queue matches",
+    "Fixed: a new account no longer silently starts with the Astro board and barricade"
+  ],
+  "downloadUrl": "https://github.com/iannaz1228/pathforge-releases/releases/latest"
+}
